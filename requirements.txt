@@ -1,0 +1,10 @@
+pandas
+requests
+streamlit
+plotly
+python-dateutil
+openpyxl
+xlrd
+beautifulsoup4
+lxml
+rapidfuzz
